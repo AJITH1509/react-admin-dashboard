@@ -20,7 +20,7 @@ import InboxIcon from "@mui/icons-material/MoveToInbox";
 import MailIcon from "@mui/icons-material/Mail";
 import { LineChart } from "./LineChart";
 import { DoughnutBar } from "./DoughnutBar";
-import "./app.css";
+import "./App.css";
 import { Earnings } from "./Earnings";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 import AppsIcon from "@mui/icons-material/Apps";
